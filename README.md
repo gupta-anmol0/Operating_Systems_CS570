@@ -10,6 +10,8 @@ Assignment 2 includes implementation of a shell-like interface for launching new
 
 ![Screen Shot 2019-10-25 at 3 30 45 PM](https://user-images.githubusercontent.com/38348923/67609191-6078ae00-f740-11e9-8876-b4ff6959872d.png)
 
+![Screen Shot 2019-10-25 at 3 32 14 PM](https://user-images.githubusercontent.com/38348923/67609244-987ff100-f740-11e9-8bd7-2018fd48dd3a.png)
+
 Assignment 3 includes design and implementation of an event management program that uses signals to coordinate work among sibling threads. 
 
 ![Screen Shot 2019-10-25 at 3 35 29 PM](https://user-images.githubusercontent.com/38348923/67609205-72f2e780-f740-11e9-8bfb-355ce47dfc20.png)
